@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAiAAAAAAAAICIAAAAAAAAiIgAAAAAAACPiAAAAAAAgI+IAAAAAACMj4gAAAAAiGyMiMzMz49obGyI3b1vb5lobmYAAAAAiJhuZgAAAAAAiG9mAAAAAACAn2kAAAAAAABolgAAAAAAAIhmAAAAAAAAgIgAAAAAAAAAiA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "spaceBlueShip"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAgAAAAAAAFQlAAAAAAAAVCUAAAAAAABAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "explosion1"
+    },
+    "image3": {
+        "data": "hwQYABAAAAAAAADADwAAAAAAACzyAAAAAADAIiIPAAAAAJwrIg8AAP/Ambki8gAA/8+bGSLyAAAvL0IZIfIAAC8sRBIh8gAAzywkEinyAADPLCSyKfL/APAsIiIi8sIPAC8iIiL8zMwALyIiIvT/IgAvIiLCRP//AMAiIixC9P8AwCwiLCLE/wDALCIsIiIPAMAsIswiIg8AwETC/C8iDwBMJML8/yIPwETyL/zAzA/w/88s8gAAAAAAAMzyAAAAAAAA8P8AAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "plane4"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
